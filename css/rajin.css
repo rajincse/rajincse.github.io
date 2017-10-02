@@ -1,0 +1,59 @@
+/* 
+    Document   : rajin
+    Created on : Aug 13, 2014, 5:17:20 PM
+    Author     : rajin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body
+{
+    background-color: #F0F9FA;
+}
+.profile-pic
+{
+    width: 300px;
+}
+.left
+{
+    float: left;
+}
+
+.right
+{
+    float: left;
+}
+.container
+{
+    margin: 10px 10px 10px 30px;
+}
+.row
+{
+    margin: 10px 0px 0px 0px;
+    float: left;
+}
+
+.header
+{
+    font-weight: bold;
+    font-size: 20px;    
+    clear: right;
+}
+.main-container
+{
+    width: 75%;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    float: left;    
+}
+.author
+{
+    
+}
+.paper-title
+{
+    font-weight: bold;
+}
+.paper-conference
+{
+    font-style: italic;
+}
